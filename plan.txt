@@ -2,7 +2,8 @@ Header
 Main 
     Home
     About
-    Skills and experience
+    Skills 
+    Education & Experience
     Portfolio
     Contact Us
 Footer
